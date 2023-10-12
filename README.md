@@ -33,3 +33,4 @@ gantt
 ```
 
 # PERT圖
+![PERT](PERT.jpg)
