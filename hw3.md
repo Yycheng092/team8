@@ -75,5 +75,5 @@
 
 ## **動態模擬畫面**
 
-[![FIGMA](FIGMA.png)]()
+[![FIGMA](Figma1.png)](https://www.figma.com/file/yiksYpfSofptuOrKw1x20b/%E5%81%A5%E8%BA%ABAPP?type=design&mode=dev)
 
